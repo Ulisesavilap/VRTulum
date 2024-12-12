@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="7.1.6" hassounds="0" apprev="20966">
+  <panorama id="node1" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="121.996" tilt="-6.3314" projection="4" pan="178.115"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO01" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node1" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point02" tilt="-9.71" url="{node3}" target="" title="RECAMARA" skinid="ht_node" pan="-221.95" description=""/>
+      <hotspot id="Point01" tilt="-4.7" url="{node2}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-177.14" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="112.778" tilt="-1.32351" projection="4" pan="-1.06885"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO01" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node2" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-3.23" url="{node1}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-354.95" description=""/>
+      <hotspot id="Point02" tilt="-11.51" url="{node3}" target="" title="RECAMARA" skinid="ht_node" pan="-311.9" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-2.08889" projection="4" pan="89.2342"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA" altitude="-3048.00" tags="DEPARTAMENTO01" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node3" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-9.78" url="{node1}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-130.96" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-5.17032" projection="4" pan="-90.4829"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO02" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node4" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-5.82" url="{node5}" target="" title="RECAMARA" skinid="ht_node" pan="-141.21" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-0.0426675" projection="4" pan="91.8612"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA" altitude="-3048.00" tags="DEPARTAMENTO02" comment="" author="" description="" customnodeid="RECAMARA" copyright="" datetime="" nodeid="node5" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-5.56" url="{node4}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-18.54" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-3.66667" projection="4" pan="-119.965"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO03" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node6" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-6.5" url="{node7}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-100.09" description=""/>
+      <hotspot id="Point02" tilt="-4.57" url="{node8}" target="" title="RECAMARA" skinid="ht_node" pan="-208.34" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-10.5075" projection="4" pan="89.5513"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO03" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node7" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-16.89" url="{node6}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-266.98" description=""/>
+      <hotspot id="Point02" tilt="-1.56" url="{node8}" target="" title="RECAMARA" skinid="ht_node" pan="-230.22" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-4.0326" projection="4" pan="-177.096"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA" altitude="-3048.00" tags="DEPARTAMENTO03" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node8" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-13.9" url="{node10}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-47.29" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-1.00921" projection="4" pan="2.07186"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA" altitude="-3048.00" tags="DEPARTAMENTO04" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node9" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-8.29" url="{node10}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-238.58" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-15.0922" projection="4" pan="2.84556"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO04" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node10" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-8.82" url="{node11}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-356.73" description=""/>
+      <hotspot id="Point02" tilt="-7.47" url="{node9}" target="" title="RECAMARA" skinid="ht_node" pan="-59.89" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-11.8477" projection="4" pan="-177.328"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO04" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node11" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-5.03" url="{node10}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-178.79" description=""/>
+      <hotspot id="Point02" tilt="-8.2" url="{node9}" target="" title="RECAMARA" skinid="ht_node" pan="-131.45" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-12.18" projection="4" pan="-82.1796"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO05" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node12" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-7.05" url="{node13}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-97.51" description=""/>
+      <hotspot id="Point02" tilt="-4.23" url="{node14}" target="" title="RECAMARA" skinid="ht_node" pan="-4.86" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-8.67902" projection="4" pan="108.426"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO05" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node13" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-10.96" url="{node12}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-249.75" description=""/>
+      <hotspot id="Point02" tilt="-6.53" url="{node14}" target="" title="RECAMARA" skinid="ht_node" pan="-296.13" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-1.72982" projection="4" pan="-0.162651"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA" altitude="-3048.00" tags="DEPARTAMENTO05" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node14" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-12.69" url="{node12}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-240.23" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-1.99792" projection="4" pan="-0.811822"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO06" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node15" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-1.43" url="{node16}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-8.42" description=""/>
+      <hotspot id="Point02" tilt="-7.88" url="{node17}" target="" title="RECAMARA 1" skinid="ht_node" pan="-293.17" description=""/>
+      <hotspot id="Point03" tilt="-6.54" url="{node18}" target="" title="RECAMARA 2" skinid="ht_node" pan="-301.42" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-3.98022" projection="4" pan="-173.079"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO06" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node16" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-2.58" url="{node15}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-170.72" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-6.11015" projection="4" pan="2.10014"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 1" altitude="-3048.00" tags="DEPARTAMENTO06" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node17" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-8.08" url="{node15}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-240.06" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-4.72256" projection="4" pan="4.25384"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 2" altitude="-3048.00" tags="DEPARTAMENTO06" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node18" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-8.34" url="{node15}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-232.21" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="0.301011" projection="4" pan="3.50391"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 1" altitude="-3048.00" tags="DEPARTAMENTO07" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node19" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-9.47" url="{node22}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-165.7" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="4.57951" projection="4" pan="0.226092"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 2" altitude="-3048.00" tags="DEPARTAMENTO07" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node20" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-0.93" url="{node21}" target="" title="RECAMARA 2" skinid="ht_node" pan="-357.02" description=""/>
+      <hotspot id="Point02" tilt="-9.07" url="{node22}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-159.75" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-4.93339" projection="4" pan="-171.965"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 2" altitude="-3048.00" tags="DEPARTAMENTO07" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node21" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-6.99" url="{node20}" target="" title="RECAMARA 2" skinid="ht_node" pan="-191.91" description=""/>
+      <hotspot id="Point02" tilt="-5.34" url="{node22}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-167.76" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-2.50313" projection="4" pan="7.01561"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO07" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node22" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-3.13" url="{node23}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-5.33" description=""/>
+      <hotspot id="Point02" tilt="-3.64" url="{node19}" target="" title="RECAMARA 1" skinid="ht_node" pan="-330.42" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-13.8874" projection="4" pan="-176.677"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO07" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node23" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-4.63" url="{node22}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-175.61" description=""/>
+      <hotspot id="Point02" tilt="-10.15" url="{node19}" target="" title="RECAMARA 1" skinid="ht_node" pan="-240.55" description=""/>
+      <hotspot id="Point03" tilt="-4.83" url="{node20}" target="" title="RECAMARA 2" skinid="ht_node" pan="-258.87" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-13.382" projection="4" pan="-177.81"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO08" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node24" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-7.43" url="{node25}" target="" title="TERRAZA" skinid="ht_node" pan="-100.76" description=""/>
+      <hotspot id="Point02" tilt="-7.14" url="{node27}" target="" title="RECAMARA 2" skinid="ht_node" pan="-192.12" description=""/>
+      <hotspot id="Point03" tilt="-10.16" url="{node26}" target="" title="RECAMARA 1" skinid="ht_node" pan="-342.58" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node25" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="0.521009" projection="4" pan="89.7224"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="TERRAZA" altitude="-3048.00" tags="DEPARTAMENTO08" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node25" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-7.16" url="{node24}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-241.5" description=""/>
+      <hotspot id="Point02" tilt="-5.55" url="{node26}" target="" title="RECAMARA 1" skinid="ht_node" pan="-316.32" description=""/>
+      <hotspot id="Point03" tilt="-5.62" url="{node27}" target="" title="RECAMARA 2" skinid="ht_node" pan="-219.59" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node26" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-5.44903" projection="4" pan="1.44169"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 1" altitude="-3048.00" tags="DEPARTAMENTO08" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node26" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-6.51" url="{node25}" target="" title="TERRAZA" skinid="ht_node" pan="-95.02" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node27" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-8.93876" projection="4" pan="179.29"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 2" altitude="-3048.00" tags="DEPARTAMENTO08" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node27" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-10.4" url="{node24}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-322.29" description=""/>
+      <hotspot id="Point02" tilt="-9.96" url="{node25}" target="" title="TERRAZA" skinid="ht_node" pan="-96.89" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node28" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-0.142561" projection="4" pan="179.543"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO09" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node28" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-3.99" url="{node29}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-175.67" description=""/>
+      <hotspot id="Point02" tilt="-5.8" url="{node30}" target="" title="TERRAZA" skinid="ht_node" pan="-32.03" description=""/>
+      <hotspot id="Point03" tilt="-6.57" url="{node31}" target="" title="RECAMARA 1" skinid="ht_node" pan="-245.43" description=""/>
+      <hotspot id="Point04" tilt="-11.95" url="{node32}" target="" title="RECAMARA 2" skinid="ht_node" pan="-316.89" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node29" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-4.17188" projection="4" pan="-1.02734"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO09" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node29" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-6.88" url="{node28}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-7.3" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node30" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="1.34066" projection="4" pan="-179.831"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="TERRAZA" altitude="-3048.00" tags="DEPARTAMENTO09" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node30" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-2.8" url="{node28}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-185.06" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node31" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-5.76725" projection="4" pan="0.808419"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 1" altitude="-3048.00" tags="DEPARTAMENTO09" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node31" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-12.47" url="{node30}" target="" title="TERRAZA" skinid="ht_node" pan="-287.56" description=""/>
+      <hotspot id="Point02" tilt="-5.41" url="{node28}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-71.95" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node32" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-14.2429" projection="4" pan="-178.174"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 2" altitude="-3048.00" tags="DEPARTAMENTO09" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node32" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-10.5" url="{node30}" target="" title="TERRAZA" skinid="ht_node" pan="-265.84" description=""/>
+      <hotspot id="Point02" tilt="-14.11" url="{node28}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-53" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node33" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-11.3485" projection="4" pan="-176.151"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 1" altitude="-3048.00" tags="DEPARTAMENTO10" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node33" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-10.56" url="{node34}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-43.27" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node34" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-13.8289" projection="4" pan="178.107"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO10" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node34" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-5.29" url="{node33}" target="" title="RECAMARA 1" skinid="ht_node" pan="-324.66" description=""/>
+      <hotspot id="Point02" tilt="-6" url="{node35}" target="" title="RECAMARA 2" skinid="ht_node" pan="-311.18" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node35" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-4.55616" projection="4" pan="92.2342"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 2" altitude="-3048.00" tags="DEPARTAMENTO10" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node35" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-11.45" url="{node34}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-225.83" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node36" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-5.99513" projection="4" pan="178.191"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 1" altitude="-3048.00" tags="DEPARTAMENTO11" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node36" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-6.9" url="{node37}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-289.96" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node37" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-0.69851" projection="4" pan="-177.635"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO11" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node37" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-8.11" url="{node36}" target="" title="RECAMARA 1" skinid="ht_node" pan="-213.93" description=""/>
+      <hotspot id="Point02" tilt="-10.14" url="{node39}" target="" title="RECAMARA 2" skinid="ht_node" pan="-322.83" description=""/>
+      <hotspot id="Point03" tilt="-10.26" url="{node38}" target="" title="TERRAZA" skinid="ht_node" pan="-105.85" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node38" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-8.69415" projection="4" pan="91.2178"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="TERRAZA" altitude="-3048.00" tags="DEPARTAMENTO11" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node38" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-2.2" url="{node36}" target="" title="RECAMARA 1" skinid="ht_node" pan="-200.44" description=""/>
+      <hotspot id="Point02" tilt="-4.24" url="{node39}" target="" title="RECAMARA 2" skinid="ht_node" pan="-336.58" description=""/>
+      <hotspot id="Point03" tilt="-8.56" url="{node37}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-276.27" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node39" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-3.89839" projection="4" pan="0.0336646"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 2" altitude="-3048.00" tags="DEPARTAMENTO11" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node39" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-13.06" url="{node38}" target="" title="TERRAZA" skinid="ht_node" pan="-102.19" description=""/>
+      <hotspot id="Point02" tilt="-13.2" url="{node37}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-229.97" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node40" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-11.572" projection="4" pan="0.742448"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 1" altitude="-3048.00" tags="DEPARTAMENTO12" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node40" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-11.08" url="{node41}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-38.18" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node41" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="0.329736" projection="4" pan="-93.7852"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="AREA SOCIAL" altitude="-3048.00" tags="DEPARTAMENTO12" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node41" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-8.66" url="{node43}" target="" title="RECAMARA 2" skinid="ht_node" pan="-193.98" description=""/>
+      <hotspot id="Point02" tilt="-4.57" url="{node40}" target="" title="RECAMARA 1" skinid="ht_node" pan="-346.51" description=""/>
+      <hotspot id="Point03" tilt="-0.48" url="{node42}" target="" title="TERRAZA" skinid="ht_node" pan="-94.34" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node42" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-1.54016" projection="4" pan="90.8818"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="TERRAZA" altitude="-3048.00" tags="DEPARTAMENTO12" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node42" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-4.14" url="{node43}" target="" title="RECAMARA 2" skinid="ht_node" pan="-209.14" description=""/>
+      <hotspot id="Point02" tilt="-8.14" url="{node41}" target="" title="AREA SOCIAL" skinid="ht_node" pan="-284" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node43" hideabout="1">
+    <input levelingroll="0" width="2048" levelbias="0.400" levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="142.755" tilt="-6.06698" projection="4" pan="176.088"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="140" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" longitude="" heading="0" title="RECAMARA 2" altitude="-3048.00" tags="DEPARTAMENTO12" comment="" author="" description="" customnodeid="" copyright="" datetime="" nodeid="node43" info="" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" textalpha="1" width="180" background="1" border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" enabled="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-7.45" url="{node42}" target="" title="TERRAZA" skinid="ht_node" pan="-87.43" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="140" softedge="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" delay="none" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextvr="1" simulatemass="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" contextprojections="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" title="" tags="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
